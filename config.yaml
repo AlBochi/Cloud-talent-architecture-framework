@@ -1,0 +1,27 @@
+# Cloud Talent Architecture Framework - Configuration
+version: 2.1.0
+framework:
+  name: "Cloud Talent Architecture Framework (CTAF)"
+  author: "Al Bochi"
+  organization: "Saillent"
+  description: "Enterprise-grade talent modeling for cloud transformation initiatives"
+
+assessment_parameters:
+  maturity_levels:
+    - name: "Foundational"
+      description: "Basic cloud operations, limited automation"
+      team_size: "1-5"
+    - name: "Operational"
+      description: "Established DevOps practices, basic FinOps"
+      team_size: "5-15"
+    - name: "Strategic"
+      description: "Advanced automation, predictive FinOps, security-by-design"
+      team_size: "15-30"
+    - name: "Transformational"
+      description: "AI-driven operations, continuous optimization, industry leadership"
+      team_size: "30+"
+
+benchmark_data:
+  source: "Market intelligence aggregation Q3 2024"
+  update_frequency: "quarterly"
+  regions: ["North America", "EMEA", "APAC"]
