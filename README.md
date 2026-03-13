@@ -2,7 +2,7 @@
 
 ## Enterprise-Grade Talent Strategy for Cloud Transformation
 
-> A strategic framework for technology executives to architect, assess, and optimize cloud talent capabilities aligned with business objectives............
+> A strategic framework for technology executives to architect, assess, and optimize cloud talent capabilities aligned with business objectives...........
 
 ## Overview
 
